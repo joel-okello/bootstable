@@ -1,5 +1,4 @@
-# plugin_for_editable_tables
-Javascript plugin for edittable tables
+# plugin for plugin for edittable tables
 
 
 Credit to https://github.com/t-edson for the initial bootstrap3 version
